@@ -1,2 +1,3 @@
-# I-Detect
-Skin and Eye-Diabetes detecting website
+# AIris
+
+Cataract, Redness and Eye-Diabetes detecting website
