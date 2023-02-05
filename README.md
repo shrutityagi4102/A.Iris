@@ -22,6 +22,9 @@ Dataset: Kaggle (ocular-disease-recognition-odir5k)
 ## Challenges we ran into
 
 Integrating Models with our Frontend
+
 Finding data and Training our Models
+
 Using Streamlit
+
 Finding ApI's
